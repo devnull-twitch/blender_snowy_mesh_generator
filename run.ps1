@@ -1,0 +1,1 @@
+C:\'Program Files\Blender Foundation\Blender 3.2'\blender.exe -con .\test_model.blend --python .\Test.py
